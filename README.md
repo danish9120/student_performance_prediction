@@ -16,6 +16,7 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to predict student per
 - Scikit-learn
 
 🚀 How It Works
+
 The model finds similar students based on input features and predicts marks using the average of nearest neighbors.
 
 ▶️ How to Run
