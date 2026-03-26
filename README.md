@@ -27,6 +27,7 @@ The model finds similar students based on input features and predicts marks usin
    python knn.py
 
 📊 Example Output
+
 Predicted Marks: 72.5
 
 📌 Future Improvements
@@ -35,4 +36,5 @@ Predicted Marks: 72.5
 - Add visualization
 
 👨‍💻 Author
+
 Danish Margoob
