@@ -1,6 +1,7 @@
 🎯 Student Performance Predictor
 
 📌 Project Overview
+
 This project uses the K-Nearest Neighbors (KNN) algorithm to predict student performance based on:
 - Study hours
 - Sleep hours
